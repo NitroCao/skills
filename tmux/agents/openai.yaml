@@ -1,0 +1,3 @@
+interface:
+  display_name: "tmux"
+  short_description: "Control interactive terminals on a shared tmux socket"
